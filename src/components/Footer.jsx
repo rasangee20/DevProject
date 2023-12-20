@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="header">
         <div className="logo-section">
           {/* Your logo shapes go here */}
-          <img alt="image" src={WhiteLogo}  className="image"/>
+          <img alt="img5" src={WhiteLogo}  className="image"/>
           <div className="intro-text">
             <p>
               Your goal is our target. Not anything in between. We use online
