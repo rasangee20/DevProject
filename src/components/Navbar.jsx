@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className="header-container">
       <div className="logo-container">
         <div className="logo-shapes">
-       <img src={WhiteLogo} className='image' />
+       <img alt="image" src={WhiteLogo} className='image' />
         </div>
         </div>
         <div className="menu-items">
@@ -26,7 +26,7 @@ const Navbar = () => {
         
         <div className="mobile-menu-items">
 
-        <img src={Button} onClick={() => setShowMenu(!showMenu)} />
+        <img alt="image" src={Button} onClick={() => setShowMenu(!showMenu)} />
 
 </div>
 

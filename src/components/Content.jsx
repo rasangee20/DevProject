@@ -8,7 +8,7 @@ const Content = () => {
   return (
     <div>
       <div className="contentContainer">
-        <img src={topimage} />
+        <img alt="image" src={topimage} />
         <div className="container1">
           <div className="title">
             We crush your competitors, goals, and sales records - without the
@@ -22,7 +22,7 @@ const Content = () => {
 
       <div className="firstpararaa">
         <div className="firstpararaafirst">
-          <img src={first} className="first" />
+          <img alt="image" src={first} className="first" />
         </div>
 
         <div className="firstpararaafirst">
@@ -65,7 +65,7 @@ const Content = () => {
         </div>
 
         <div className="firstpararaafirst">
-          <img src={secnond} className="first" />
+          <img alt="image" src={secnond} className="first" />
         </div>
       </div>
       </div>
@@ -75,7 +75,7 @@ const Content = () => {
 <div className="firstpararaa">
         <div className="firstpararaafirst">
         <div className="firstpararaafirst">
-          <img src={secnond} className="first" />
+          <img alt="image" src={secnond} className="first" />
         </div>
           <div className="firstpara">
             <div className="title-sectionpara">
